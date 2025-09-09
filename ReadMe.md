@@ -64,4 +64,5 @@ dotnet add package Microsoft.Data.SqlClient
 ### lancer le scaffold (remplacer pa votre connection string)
 dotnet ef dbcontext scaffold "your_connection_string" Microsoft.EntityFrameworkCore.SqlServer -o Models
 
+**Merci Alexandre**
  
